@@ -3,7 +3,7 @@
 ### Later I switched to MS DOS and and then stayed within the Microsoft world until retirement age: 16-bit assembler, C compiler, COM, Visual Basic, C#, .Net through all the versions of a plethora of development tools.   
 ### I have now started learning Salesforce Apex and SOQL programming.
 ###
-### 📫 How to reach me: georg.wille@bluewin.ch
+<!-- ### 📫 How to reach me: georg.wille@bluewin.ch -->
 
 <!--
 **willeg/willeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
