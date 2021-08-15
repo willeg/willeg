@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Many years ago I started out as a programmer on DEC PDP-11 RSTS/E systems.
-### Later I switched to MS DOS and and then stayed within the Microsoft world until retirement age: 16-bit assembler, C compiler, Visual Basic, C#, .Net  
+### Later I switched to MS DOS and and then stayed within the Microsoft world until retirement age: 16-bit assembler, C compiler, COM, Visual Basic, C#, .Net through all the versions of development tools.   
 ### I have now started learning Salesforce Apex and SOQL programming.
 ###
 ### 📫 How to reach me: georg.wille@bluewin.ch
